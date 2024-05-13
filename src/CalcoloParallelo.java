@@ -6,5 +6,7 @@ public class CalcoloParallelo {
         b = 3;
         c = 4;
         Buffer parziali = new Buffer(a,b,c);
+        Operazione1 thr1 = new Operazione1();
+
     }
 }
