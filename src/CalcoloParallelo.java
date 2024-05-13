@@ -12,8 +12,8 @@ public class CalcoloParallelo {
             System.out.println("\nInserisci c: ");
             c = scanner.nextDouble();
         }
-        Buffer parziali = new Buffer(a,b,c);
 
+        Buffer parziali = new Buffer(a,b,c);
         Operazione1 thr1 = new Operazione1(parziali);
         thr1.start();
         Operazione2 thr2 = new Operazione2(parziali);
