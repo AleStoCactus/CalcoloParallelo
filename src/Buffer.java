@@ -7,6 +7,7 @@ public class Buffer {
         z = 0;
         t = 0;
         k = 0;
+
         a = 0;
         b = 0;
         c = 0;
@@ -17,6 +18,7 @@ public class Buffer {
         z = 0;
         t = 0;
         k = 0;
+
         a = aa;
         b = bb;
         c = cc;
