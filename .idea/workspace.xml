@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecc79942-4bb8-4cc2-b2c0-b7b21721a045" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operazione4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operazione5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CalcoloParallelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalcoloParallelo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operazione1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operazione1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operazione2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operazione2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operazione3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operazione3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalcoloParallelo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
