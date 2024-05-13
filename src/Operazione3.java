@@ -1,0 +1,2 @@
+public class Operazione3 {
+}
